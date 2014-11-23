@@ -1,0 +1,11 @@
+{
+  "require": {
+    "php": "~5.6.0",
+    "ext-gd": "*",
+    "ext-mbstring": "*",
+    "ext-mysql": "*"
+  },
+  "require-dev": {
+    "heroku/heroku-buildpack-php": "*"
+  }
+}
